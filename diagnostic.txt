@@ -1,0 +1,42 @@
+src/render-pipeline.ts(22,12): error TS2589: Type instantiation is excessively deep and possibly infinite.
+src/render-pipeline.ts(32,27): error TS7006: Parameter 't' implicitly has an 'any' type.
+src/render-pipeline.ts(75,26): error TS7006: Parameter 't' implicitly has an 'any' type.
+src/render-pipeline.ts(118,30): error TS7006: Parameter 't' implicitly has an 'any' type.
+src/render-pipeline.ts(142,13): error TS2589: Type instantiation is excessively deep and possibly infinite.
+src/render-pipeline.ts(149,31): error TS7031: Binding element 'colored' implicitly has an 'any' type.
+src/render-pipeline.ts(161,14): error TS7006: Parameter 'args' implicitly has an 'any' type.
+Files:                          102
+Lines of Library:             28535
+Lines of Definitions:         17252
+Lines of TypeScript:            209
+Lines of JavaScript:              0
+Lines of JSON:                    0
+Lines of Other:                   0
+Nodes of Library:            117553
+Nodes of Definitions:         77146
+Nodes of TypeScript:            663
+Nodes of JavaScript:              0
+Nodes of JSON:                    0
+Nodes of Other:                   0
+Identifiers:                  69801
+Symbols:                      47723
+Types:                         1018
+Instantiations:            23024059
+Memory used:                 85914K
+Assignability cache size:       367
+Identity cache size:              1
+Subtype cache size:               0
+Strict subtype cache size:        0
+I/O Read time:                0.03s
+Parse time:                   1.09s
+ResolveModule time:           0.04s
+ResolveTypeReference time:    0.03s
+Program time:                 1.27s
+Bind time:                    0.72s
+Check time:                  53.45s
+transformTime time:           0.02s
+commentTime time:             0.01s
+I/O Write time:               0.00s
+printTime time:               0.05s
+Emit time:                    0.06s
+Total time:                  55.50s
